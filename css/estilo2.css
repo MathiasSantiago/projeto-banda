@@ -1,0 +1,19 @@
+.center{
+    text-align: center;
+}
+p{
+    font-weight: bolder;
+    background-color: #ff8888;
+}
+div{
+    color: crimson;
+}
+
+div p{
+    color: green;
+}
+
+.fundovermelho{
+    background-color: red;
+
+}
